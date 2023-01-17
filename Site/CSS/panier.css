@@ -1,0 +1,44 @@
+body{
+    margin-top: 8%;
+    margin-left: 0;
+    background-color: rgba(189, 183, 183, 0.788);
+}
+
+td{
+    border: 1px solid black;
+    padding: 4px;
+    padding-bottom: 16px;
+    text-align: center;
+    background-color: rgb(240, 240, 226);
+    font-size: 140%;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#boutons{
+    width: 40%;
+    margin-top: 0px;
+    position: absolute;
+}
+
+#vous{
+    font-size: 200%;
+}
+
+.quant{
+    font-size: 80%;
+}
+
+
+#suppr, #ajout, #retour{
+    position: absolute;
+    width: 350px;
+}
+
+#ajout{
+    left: 140vh;
+    margin-top: 70%;
+}

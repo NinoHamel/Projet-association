@@ -1,0 +1,107 @@
+body 
+{
+    background-image: url("../img/fond.jpg");
+    background-size: cover;
+    margin-left: 0;
+    margin-top: 8%;
+    color:white;
+    height: 79vh;
+}
+
+.wrapper{
+    min-height: 74vh;
+}
+
+h1
+{
+    color: white;
+    text-shadow: 4px 0 0 rgb(53, 23, 38), -4px 0 0 rgb(53, 23, 38), 0 4px 0 rgb(53, 23, 38), 0 -4px 0 rgb(53, 23, 38), 2px 2px rgb(53, 23, 38), -2px -2px 0 rgb(53, 23, 38), 2px -2px 0 rgb(53, 23, 38), -2px 2px 0 rgb(53, 23, 38);
+}
+
+a
+{
+    text-decoration:none;
+    color: white; 
+    background-color:DarkSlateGrey;
+}
+
+ul
+{
+    list-style:none;
+}
+
+li
+{
+    display:inline-block;
+}
+
+.navigation
+{
+    font-size:200%;
+}
+
+.centre
+{
+    padding-left:50%;
+
+}
+
+.util{
+    position: absolute;
+    margin-left: 89.1%;
+    top: 10%;
+}
+
+#event{
+    display: inline-block;
+    margin: 5%;
+    width: 20%;
+    height: 400px;
+}
+
+.desc{
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: 2px solid rgb(85, 16, 85);
+    background-color: rgba(75, 45, 104, 0.25);
+    padding: 10px;
+    font-size: 110%;
+}
+
+.desc h2{
+    font-size: 150%;
+    margin-left: 5%;
+    color: rgb(224, 194, 220);
+}
+
+#question{
+    display: inline-flex;
+    margin-left: 7%;
+}
+
+#review{
+    display: inline-flex;
+    margin-left: 10%;
+    position: absolute;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    background-color: rgb(85, 51, 72);
+}
+
+#openBtn{
+    display: block;
+    margin: auto;
+    margin-top: 1%;
+}
+
+dialog{
+    bottom: 50%;
+    position: absolute;
+    left: 20%;
+}

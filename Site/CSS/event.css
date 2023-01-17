@@ -1,0 +1,32 @@
+#event{
+    display: inline-block;
+    margin: 6%;
+    width: 20%;
+    height: 64%;
+    border: grey 3px solid;
+    text-align: end;
+    background-image: url("../img/lanimage.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rgb(240, 218, 233);
+}
+
+#div2{
+    display: inline-table;
+    margin-top: 75%;
+    color: black;
+    margin-right: 10%;
+}
+
+body 
+{
+    background-image: url("../img/event.jpg");
+    margin-left: 0;
+    margin-top: 8%;
+    color:white;
+}
+
+#titre{
+    font-size:200%;
+    color: rgb(58, 13, 58);
+}

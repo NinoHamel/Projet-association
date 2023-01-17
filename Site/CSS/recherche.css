@@ -1,0 +1,42 @@
+body{
+    font-size: 125%;
+}
+
+#search{
+    width: 65%;
+    margin-left: 10%;
+    padding: 8px;
+    border: rgba(39, 39, 38, 0.63) solid 1px;
+    border-radius: 4px;
+}
+
+#submit{
+    width: 15%;
+    padding: 7px;
+    margin-left: -8px;
+}
+
+li{
+    list-style: none;
+    border: 1px solid black;
+    width: 15%;
+    display: inline-block;
+    margin-right: 4%;
+    padding: 6px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(112, 57, 80);
+    font-weight: bold;
+}
+
+#back{
+    display: block;
+    text-align: center;
+    font-size: 150%;
+}
+
+a:active{
+    color: rgb(228, 102, 140);
+}

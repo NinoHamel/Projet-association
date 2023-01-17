@@ -1,0 +1,21 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.user{
+    border: solid 1px black;
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.action{
+    border: 1px solid black;
+    height: 80px;
+}
+
+#tresor{
+    text-align: center;
+}

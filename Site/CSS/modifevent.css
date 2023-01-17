@@ -1,0 +1,63 @@
+body{
+    margin-top: 3%;
+    text-align:center;
+    background-color: rgb(211, 202, 208);
+}
+
+#retour{
+    font-size: 150%;
+    background-color: rgb(252, 241, 249);
+    border: rgb(131, 56, 131) 2px solid;
+    padding: 5px;
+}
+
+h1{
+    font-size: 300%;
+}
+
+table{
+    width: 70%;
+    margin-left: 15%;
+}
+
+tr{
+    border: 1px solid black;
+    background-color: rgb(252, 241, 249);
+}
+
+td{
+    border: 1px solid black;
+    width: 33%;
+    font-size: 150%;
+    text-align: center;
+}
+
+form{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 175px;
+}
+
+input, textarea{
+    width: 175px;
+}
+
+a{
+    color: rgb(118, 118, 218);
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(118, 118, 218);
+    text-decoration: none;
+}
+
+a:active{
+    color: rgb(233, 185, 97);
+}
+
+#modifprod{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

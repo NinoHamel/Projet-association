@@ -1,0 +1,57 @@
+body{
+    color:white;
+    background-image: url("../img/degrade.jpg");
+    background-size: cover;
+    margin-left: 0;
+    margin-top: 8%;
+    text-align: center;
+}
+
+#form{
+    text-align: center;
+    display: block;
+}
+
+#event{
+    text-align: center;
+}
+
+form{
+    display: inline-block;
+    background-color: rgb(134, 142, 184);
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+input{
+    padding: 10px;
+}
+
+#envoi{
+    margin-top: 12px;
+    margin-left: 38%;
+    margin-bottom: 5px;
+}
+
+#ajoutprod{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+textarea{
+    display: block;
+    width: 193px;
+    padding: 10px;
+}
+
+#back{
+    font-size: 200%;
+    background-color: rgb(252, 241, 249);
+    border: rgb(131, 56, 131) 2px solid;
+    padding: 5px;
+    text-decoration: none;
+}

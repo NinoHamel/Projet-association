@@ -1,0 +1,43 @@
+#boutique{
+    display: inline-block;
+    margin: 6%;
+    width: 20%;
+    height: 64%;
+    border: rgb(97, 96, 96) 3px solid;
+    text-align: end;
+    background-image: url("../img/produit.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rgb(240, 218, 233);
+}
+
+#div2{
+    display: inline-table;
+    margin-top: 75%;
+    color: black;
+    margin-right: 10%;
+}
+
+body 
+{
+    background-image: url("../img/boutique.jpg");
+    margin-left: 0;
+    margin-top: 8%;
+    color:black;
+}
+
+a{
+    color: white;
+}
+
+#div2 a{
+    font-size: 170%;
+    border-right-color: rgb(85, 51, 72);
+}
+
+#div2 a:active{
+    border: groove 6px rgb(53, 31, 41);
+    padding: 12px;
+    padding-left: 28px;
+    padding-right: 28px;
+}
